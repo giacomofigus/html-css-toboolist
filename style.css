@@ -76,7 +76,7 @@ hr{
 
 section{
     margin-left: 50px;
-    margin-top: 30px;
+    margin-top: 40px;
 }
 
 #caret{
@@ -88,6 +88,7 @@ h3{
     font-size: 25px;
 }
 
+/* Targhette e simbboli */
 #check{
     font-size: 12px;
     color: green;
@@ -106,7 +107,7 @@ h3{
     color: white;
     padding: 8px;
     border-radius: 40px;
-    font-size: 15px;
+    font-size: 12px;
     margin-left: 10px;
 }
 
@@ -115,7 +116,7 @@ h3{
     color: white;
     padding: 8px;
     border-radius: 40px;
-    font-size: 15px;
+    font-size: 12px;
     margin-left: 10px;
 }
 
@@ -133,7 +134,7 @@ h3{
     color: white;
     padding: 8px;
     border-radius: 40px;
-    font-size: 15px;
+    font-size: 12px;
     margin-left: 10px;
 }
 
@@ -142,7 +143,25 @@ h3{
     color: white;
     padding: 8px;
     border-radius: 40px;
-    font-size: 15px;
+    font-size: 12px;
+    margin-left: 10px;
+}
+
+.viola-chiaro{
+    background-color: #D863A1;
+    color: white;
+    padding: 8px;
+    border-radius: 40px;
+    font-size: 12px;
+    margin-left: 10px;
+}
+
+.lime{
+    background-color: #B0C926;
+    color: white;
+    padding: 8px;
+    border-radius: 40px;
+    font-size: 12px;
     margin-left: 10px;
 }
 
